@@ -1,6 +1,6 @@
 # CuteSexyEyezz's Villager Sound Pack
 <h3> Add's Funny Voices (Contains Cuss Words) to Villager Type Mobs:<br>
-  Villager, Zombile Villager, Wandering Trader, Evoker, Pillager, Ravager, Vindicator, Witch & Illusioner<br><br>
+  Villager, Zombile Villager, Wandering Trader, Evoker<br> Pillager, Ravager, Vindicator, Witch & Illusioner<br><br>
  
   Current Progress: %22<br>
   Villager & Zombie Villager
